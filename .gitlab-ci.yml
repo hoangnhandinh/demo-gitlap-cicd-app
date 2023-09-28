@@ -1,3 +1,4 @@
+#
 variables:
   IMAGE_NAME: tonykien2012/demo-gitlab-cicd-app
   IMAGE_TAG: python-app-1.0
